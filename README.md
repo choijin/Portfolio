@@ -13,13 +13,6 @@ Analysis of dummy bank customer data from United Kingdom
 * Segmented the customer distributions according to their age, bank balance, location, and gender
 * Created an interactive dashboard to derive business insights
 
-## [Additional Tableau Projects](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
-
-Analysis of crime incidents occurring at New York City (NYC) parks to promote for safer parks.
-* Conducted data pre-processing after importing a PDF data file
-* Combined the PDF data with spatial files using inner join (on park names)
-* Designed an attention-grabbing visualisation which can be used to motivate for more police patrols in NYC public parks.
-
 ## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
 During my undergraduate research at NCSU, I conducted data analysis on research grant data retrieved from National Science Foundation.
@@ -27,3 +20,10 @@ During my undergraduate research at NCSU, I conducted data analysis on research 
 * Pre-processed the data by removing any stopwords and missing data
 * Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
 * Used various machine learning algorithms (KMeans Clustering, XGBoost, Random Forest, NetworkX) to draw insights
+
+## [Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
+
+Analysis of crime incidents occurring at New York City (NYC) parks to promote for safer parks.
+* Conducted data pre-processing after importing a PDF data file
+* Combined the PDF data with spatial files using inner join (on park names)
+* Designed an attention-grabbing visualisation which can be used to motivate for more police patrols in NYC public parks.
