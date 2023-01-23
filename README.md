@@ -9,6 +9,14 @@ Analysis of health insurance premium data using causal inference and machine lea
 
 ![](/images/matrix_results.png)
 
+## [Project x: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
+
+Analysis of dummy bank customer data from United Kingdom
+* Segmented the customer distributions according to their age, bank balance, location, and gender
+* Created a dashboard to derive business insights
+
+![](/images/dashboard_img.png)
+
 ## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
 During my undergraduate research at NCSU, I conducted data analysis on research grant data retrieved from National Science Foundation.
