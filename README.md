@@ -1,20 +1,18 @@
 # My Project Portfolio
 
-Example data science portfolio
+## [Project x: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
 
-## [Project 1: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+Analysis of health insurance premium data using causal inference and machine learning methods
+* Conduct power analysis and hypothesis testing to identify relationships between features
+* Compare LASSO regression, Ridge regression, and Elastic net regression to identify the regularized regression model that will perform best prediction
+* Perform PCA, K-Mean's clustering and XGBoost classifier to create the decision tree to determine one’s diabetes status
 
-![](/images/positions_by_state.png)
+![](/images/matrix_results.png)
 
-
-## [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
-
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
+* Transformed XML formatted non-relational data into a tabular relational data format
+* Pre-processed the data by removing any stopwords and missing data
+* Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
+* Used various machine learning algorithms (KMeans Clustering, XGBoost, Random Forest, NetworkX) to draw insights
 
 ![](/images/matrix_results.png)
