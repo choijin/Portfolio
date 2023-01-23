@@ -10,6 +10,8 @@ Analysis of health insurance premium data using causal inference and machine lea
 ![](/images/matrix_results.png)
 
 ## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
+
+During my undergraduate research at NCSU, I conducted data analysis on research grant data retrieved from National Science Foundation.
 * Transformed XML formatted non-relational data into a tabular relational data format
 * Pre-processed the data by removing any stopwords and missing data
 * Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
