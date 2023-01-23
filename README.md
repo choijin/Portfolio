@@ -10,6 +10,7 @@ Analysis of health insurance premium data using causal inference and machine lea
 ## [Project x: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
 
 Analysis of dummy bank customer data from United Kingdom
+* Customizable balance band and age band, interactive filters upon clicking figures
 * Segmented the customer distributions according to their age, bank balance, location, and gender
 * Created an interactive dashboard to derive business insights
 
@@ -23,7 +24,8 @@ During my undergraduate research at NCSU, I conducted data analysis on research 
 
 ## [Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
 
-Analysis of crime incidents occurring at New York City (NYC) parks to promote for safer parks.
+Analysis of crime incidents occurring at New York City (NYC) parks to promote for safer parks. You can customize the county and view the parks along with their crime report incidents.
+
 * Conducted data pre-processing after importing a PDF data file
 * Combined the PDF data with spatial files using inner join (on park names)
 * Designed an attention-grabbing visualisation which can be used to motivate for more police patrols in NYC public parks.
