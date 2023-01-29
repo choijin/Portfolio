@@ -2,7 +2,7 @@
 
 ## [Project x: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
 
-Data engineering project where I used Airflow to perform ETL process on Twitter data by executing tasks inside Docker containers.
+Data engineering project using Airflow to perform ETL process on Twitter data and executing tasks inside Docker containers
 * Executed data extraction from the Twitter API (Tweepy)
 * Transformed JSON data into CSV using Python scripts and libraries (Pandas, JSON)
 * loaded the processed data into AWS S3 buckets for storage using Python SDK, boto3
@@ -24,7 +24,7 @@ Analysis of dummy bank customer data from United Kingdom
 
 ## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
-During my undergraduate research at NCSU, I conducted data analysis on research grant data retrieved from National Science Foundation.
+Exploratory data analysis on research grant data retrieved from National Science Foundation 
 * Transformed XML formatted non-relational data into a tabular relational data format
 * Pre-processed the data by removing any stopwords and missing data
 * Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
