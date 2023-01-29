@@ -8,6 +8,8 @@ Data engineering project using Airflow to perform ETL process on Twitter data an
 * Loaded the processed data into AWS S3 buckets for storage using Python SDK (boto3)
 * Orchestrated the ETL process by implementing Airflow and operated the tasks inside Docker to ensure a controlled and isolated environment, resulting in improved development and testing processes and faster time to market
 
+![](/images/pipeline_img_new.png)
+
 ## [Project x: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
 
 Analysis of health insurance premium data using causal inference and machine learning methods
