@@ -26,7 +26,7 @@ Analysis of dummy bank customer data from United Kingdom
 * Segmented the customer distributions according to their age, bank balance, location, and gender
 * Created an interactive dashboard to derive business insights
 
-<img src="https://github.com/choijin/Portfolio/blob/main/images/bank_dashboard.png" width=50% height=50%>
+<img src="https://github.com/choijin/Portfolio/blob/main/images/bank_dashboard.png" width=70% height=70%>
 
 ## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
