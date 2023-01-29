@@ -17,12 +17,16 @@ Analysis of health insurance premium data using causal inference and machine lea
 * Compared LASSO regression, Ridge regression, and Elastic net regression to identify the regularized regression model that will perform best prediction
 * Performed PCA, K-Mean's clustering and XGBoost classifier to create the decision tree to determine one’s diabetes status
 
+![](/images/age_distribution.png)
+
 ## [Project x: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
 
 Analysis of dummy bank customer data from United Kingdom
 * Customizable balance band and age band, interactive filters upon clicking figures
 * Segmented the customer distributions according to their age, bank balance, location, and gender
 * Created an interactive dashboard to derive business insights
+
+![](/images/bank_dashboard.png)
 
 ## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
