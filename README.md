@@ -5,7 +5,7 @@
 Data engineering project using Airflow to perform ETL process on Twitter data and executing tasks inside Docker containers
 * Executed data extraction utilizing Twitter API calls (Tweepy)
 * Transformed JSON data into CSV using Python scripts and libraries (Pandas, JSON)
-* loaded the processed data into AWS S3 buckets for storage using Python SDK, boto3
+* Loaded the processed data into AWS S3 buckets for storage using Python SDK (boto3)
 * Orchestrated the ETL process by implementing Airflow and operated the tasks inside Docker to ensure a controlled and isolated environment, resulting in improved development and testing processes and faster time to market
 
 ## [Project x: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
