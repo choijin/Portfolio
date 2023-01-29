@@ -1,11 +1,19 @@
 # My Project Portfolio
 
+## [Project x: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
+
+Data engineering project where I used Airflow to perform ETL process on Twitter data by executing tasks inside Docker containers.
+* Executed data extraction from the Twitter API (Tweepy)
+* Transformed JSON data into CSV using Python scripts and libraries (Pandas, JSON)
+* loaded the processed data into AWS S3 buckets for storage using Python SDK, boto3
+* Implemented Airflow inside Docker to execute the entire ETL process in a controlled and isolated environment, ensuring the data pipeline's security and stability, resulting in improved development and testing processes and faster time to market."
+
 ## [Project x: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
 
 Analysis of health insurance premium data using causal inference and machine learning methods
-* Conduct power analysis and hypothesis testing to identify relationships between features
-* Compare LASSO regression, Ridge regression, and Elastic net regression to identify the regularized regression model that will perform best prediction
-* Perform PCA, K-Mean's clustering and XGBoost classifier to create the decision tree to determine one’s diabetes status
+* Conducted power analysis and hypothesis testing to identify relationships between features
+* Compared LASSO regression, Ridge regression, and Elastic net regression to identify the regularized regression model that will perform best prediction
+* Performed PCA, K-Mean's clustering and XGBoost classifier to create the decision tree to determine one’s diabetes status
 
 ## [Project x: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
 
