@@ -36,8 +36,6 @@ Exploratory data analysis on research grant data retrieved from National Science
 * Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
 * Used various machine learning algorithms (KMeans Clustering, XGBoost, Random Forest, NetworkX) to draw insights
 
-![](/images/word_frequency.png)
-
 ## [Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
 
 Analysis of crime incidents occurring at New York City (NYC) parks to promote for safer parks. You can customize the county and view the parks along with their crime report incidents.
