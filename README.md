@@ -1,6 +1,6 @@
 # My Project Portfolio
 
-## [Project x: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
+## [Project 1: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
 
 Data engineering project using Airflow to perform ETL process on Twitter data and executing tasks inside Docker containers
 * Executed data extraction utilizing Twitter API calls (Tweepy)
@@ -10,7 +10,7 @@ Data engineering project using Airflow to perform ETL process on Twitter data an
 
 ![](/images/pipeline_img_new.png)
 
-## [Project x: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
+## [Project 2: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
 
 Analysis of health insurance premium data using causal inference and machine learning methods
 * Conducted power analysis and hypothesis testing to identify relationships between features
@@ -19,7 +19,7 @@ Analysis of health insurance premium data using causal inference and machine lea
 
 ![](/images/age_distribution.png)
 
-## [Project x: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
+## [Project 3: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
 
 Analysis of dummy bank customer data from United Kingdom
 * Customizable balance band and age band, interactive filters upon clicking figures
@@ -28,7 +28,7 @@ Analysis of dummy bank customer data from United Kingdom
 
 ![](/images/bank_dashboard.png)
 
-## [Project x: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
+## [Project 4: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
 Exploratory data analysis on research grant data retrieved from National Science Foundation 
 * Transformed XML formatted non-relational data into a tabular relational data format
@@ -36,7 +36,7 @@ Exploratory data analysis on research grant data retrieved from National Science
 * Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
 * Used various machine learning algorithms (KMeans Clustering, XGBoost, Random Forest, NetworkX) to draw insights
 
-## [Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
+## [Project 5: Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
 
 Analysis of crime incidents occurring at New York City (NYC) parks to promote for safer parks. You can customize the county and view the parks along with their crime report incidents.
 
