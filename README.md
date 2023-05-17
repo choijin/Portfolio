@@ -1,16 +1,24 @@
 # My Project Portfolio
 
-## [Project 1: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
+## [Project 1: Music Recommender System](https://choijin.github.io/Music_Recommender_System/) 
+
+Big data project using PySpark to extract and transform large-scale music listening data stored in HDFS and build a collaborative-filter based recommender system
+* Develop a collaborative filtering recommender system using Alternating Least Squares (ALS) model
+* Evaluate the model against a popularity baseline model
+* Use Mean Average Precision at K (MAP@K) metric for performance assessment
+* The ALS model outperformed the popularity baseline model and resulted in a 16.7x improvement in MAP@100.
+
+## [Project 2: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
 
 Data engineering project using Airflow to perform ETL process on Twitter data and executing tasks inside Docker containers
 * Executed data extraction utilizing Twitter API calls (Tweepy)
 * Transformed JSON data into CSV using Python scripts and libraries (Pandas, JSON)
 * Loaded the processed data into AWS S3 buckets for storage using Python SDK (boto3)
-* Orchestrated the ETL process by implementing Airflow and operated the tasks inside Docker to ensure a controlled and isolated environment, resulting in improved development and testing processes and faster time to market
+* Orchestrated the ETL process by implementing Airflow and operated the tasks inside Docker to ensure a controlled and isolated environment, resulting in improved development and testing processes as well as facilitating faster deployment.
 
 ![](/images/pipeline_img_new.png)
 
-## [Project 2: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
+## [Project 3: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
 
 Analysis of health insurance premium data using causal inference and machine learning methods
 * Conducted power analysis and hypothesis testing to identify relationships between features
@@ -19,7 +27,7 @@ Analysis of health insurance premium data using causal inference and machine lea
 
 ![](/images/age_distribution.png)
 
-## [Project 3: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
+## [Project 4: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
 
 Analysis of dummy bank customer data from United Kingdom
 * Customizable balance band and age band, interactive filters upon clicking figures
@@ -28,7 +36,7 @@ Analysis of dummy bank customer data from United Kingdom
 
 ![](/images/bank_dashboard.png)
 
-## [Project 4: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
+## [Project 5: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
 Exploratory data analysis on research grant data retrieved from National Science Foundation 
 * Transformed XML formatted non-relational data into a tabular relational data format
@@ -36,7 +44,7 @@ Exploratory data analysis on research grant data retrieved from National Science
 * Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
 * Used various machine learning algorithms (KMeans Clustering, XGBoost, Random Forest, NetworkX) to draw insights
 
-## [Project 5: Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
+## [Project 6: Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
 
 Analysis of crime incidents occurring at New York City (NYC) parks to promote for safer parks. You can customize the county and view the parks along with their crime report incidents.
 
