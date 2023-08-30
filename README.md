@@ -2,20 +2,20 @@
 
 ## [Project 1: NLP Topic Modeling](https://choijin.github.io/NLP_Topic_Modeling/) 
 
-NLP project using text data web-scraped from news website. Used Latent Dirichlet Allocation (LDA) to perform topic modeling, refined the LDA topics and find nuanced groupings using K-means clustering and BERT model. 
-* Webscrape and collect news articles and store in S3.
-* Perform topic modeling using LDA model and improve upon baseline using K-means Clustering and BERT.
-* Evaluate its performance using various metrics such as topic coherence and silhouette score.
-* Visualize the word importance per topic and summarize each articles using BART.
+NLP project using text data scraped from a news website. Used Latent Dirichlet Allocation (LDA) to perform topic modeling, refined the LDA topics to find nuanced groupings using K-means clustering and BERT model. 
+* Webscraped and collect news articles and store in Amazon S3.
+* Performed topic modeling using LDA model and improve upon baseline using K-means Clustering and BERT.
+* Evaluated its performance using various metrics such as topic coherence and silhouette score.
+* Visualized the word importance per topic and summarize each articles using BART.
 
 ![](/images/nlp_pipeline.png)
 
 ## [Project 2: Music Recommender System](https://choijin.github.io/Music_Recommender_System/) 
 
 Big data project using PySpark to extract and transform large-scale music listening data stored in HDFS and build a collaborative-filter based recommender system
-* Develop a collaborative filtering recommender system using Alternating Least Squares (ALS) model
-* Evaluate the model against a popularity baseline model
-* Use Mean Average Precision at K (MAP@K) metric for performance assessment
+* Developed a collaborative filtering recommender system using Alternating Least Squares (ALS) model
+* Evaluated the model against a popularity baseline model
+* Used Mean Average Precision at K (MAP@K) metric for performance assessment
 * The ALS model outperformed the popularity baseline model and resulted in a 16.7x improvement in MAP@100.
 
 ## [Project 3: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
