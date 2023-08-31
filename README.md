@@ -3,10 +3,10 @@
 ## [Project 1: NLP Topic Modeling](https://choijin.github.io/NLP_Topic_Modeling/) 
 
 NLP project using text data scraped from a news website. Used Latent Dirichlet Allocation (LDA) to perform topic modeling, refined the LDA topics to find nuanced groupings using K-means clustering and BERT model. 
-* Webscraped and collect news articles and store in Amazon S3.
-* Performed topic modeling using LDA model and improve upon baseline using K-means Clustering and BERT.
+* Webscraped and collected news articles and stored it in Amazon S3.
+* Performed topic modeling using LDA model and improved upon baseline using K-means Clustering and BERT.
 * Evaluated its performance using various metrics such as topic coherence and silhouette score.
-* Visualized the word importance per topic and summarize each articles using BART.
+* Visualized the word importance per topic and summarized each articles using BART.
 
 ![](/images/nlp_pipeline.png)
 
