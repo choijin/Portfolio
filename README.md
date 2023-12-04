@@ -1,10 +1,20 @@
 # My Project Portfolio
 
+## [Project 1: Loan Underwriting](https://github.com/choijin/Loan_Underwriting)
+
+Developed a logistic regression model to predict the one-year Probability of Default (PD) for prospective borrowers to enhance the bank's loan underwriting process.
+* Trained a logistic regression model on historical bank transaction data to forecast default probabilities, emphasizing model explainability.
+* Engineered financial features like liquidity, debt coverage, and profitability, and handled missing data through finance-based and median imputation.
+* Performed feature selection using univariate and multivariate analysis, and addressed multicollinearity using Variation Inflation Factor (VIF).
+* Implemented walk-forward analysis and calibration for model evaluation, achieving an AUC of 0.7761, significantly improving upon a baseline model (AUC of 0.701).
+
+![](/images/loan_underwriting.png)
+
 ## [Project 1: NLP Topic Modeling](https://choijin.github.io/NLP_Topic_Modeling/) 
 
-NLP project using text data scraped from a news website. Used Latent Dirichlet Allocation (LDA) to perform topic modeling, refined the LDA topics to find nuanced groupings using K-means clustering and BERT model. 
+NLP project using Latent Dirichlet Allocation (LDA) to perform topic modeling on text data scraped from a news website, further refining the LDA topics to find nuanced groupings by incorporating K-means clustering and BERT model. 
 * Webscraped and collected news articles and stored it in Amazon S3.
-* Performed topic modeling using LDA model and improved upon baseline using K-means Clustering and BERT.
+* Performed topic modeling utilizing LDA model and improved upon baseline applying K-means Clustering and BERT.
 * Evaluated its performance using various metrics such as topic coherence and silhouette score.
 * Visualized the word importance per topic and summarized each articles using BART.
 
