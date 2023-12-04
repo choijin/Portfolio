@@ -1,6 +1,6 @@
 # My Project Portfolio
 
-## [Project 1: Loan Underwriting](https://github.com/choijin/Loan_Underwriting)
+## [Project 1: Loan Underwriting](https://choijin.github.io/Loan_Underwriting/)
 
 Developed a logistic regression model to predict the one-year Probability of Default (PD) for prospective borrowers to enhance the bank's loan underwriting process.
 * Trained a logistic regression model on historical bank transaction data to forecast default probabilities, emphasizing model explainability.
