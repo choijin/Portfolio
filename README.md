@@ -17,7 +17,7 @@ Stock Price Prediction project leveraging LSTM and BERT models to analyze contex
 Developed a logistic regression model to predict the one-year Probability of Default (PD) for prospective borrowers to enhance the bank's loan underwriting process.
 * Trained a logistic regression model on historical bank transaction data to forecast default probabilities, emphasizing model explainability.
 * Engineered financial features like liquidity, debt coverage, and profitability, and handled missing data through finance-based and median imputation.
-* Performed feature selection using univariate and multivariate analysis, and addressed multicollinearity using Variation Inflation Factor (VIF).
+* Performed feature selection using univariate and multivariate analysis, and addressed multicollinearity using Variation Inflation Factor.
 * Implemented walk-forward analysis and calibration for model evaluation, achieving an AUC of 0.7761, significantly improving upon a baseline model (AUC of 0.701).
 
 ![](/images/loan_underwriting.png)
