@@ -10,6 +10,8 @@ Stock Price Prediction project leveraging LSTM and BERT models to analyze contex
 
 ![](/images/nlp_text_stock_prediction.png)
 
+
+
 ## [Project 2: Loan Underwriting](https://choijin.github.io/Loan_Underwriting/)
 
 Developed a logistic regression model to predict the one-year Probability of Default (PD) for prospective borrowers to enhance the bank's loan underwriting process.
@@ -19,6 +21,8 @@ Developed a logistic regression model to predict the one-year Probability of Def
 * Implemented walk-forward analysis and calibration for model evaluation, achieving an AUC of 0.7761, significantly improving upon a baseline model (AUC of 0.701).
 
 ![](/images/loan_underwriting.png)
+
+
 
 ## [Project 3: NLP Topic Modeling](https://choijin.github.io/NLP_Topic_Modeling/) 
 
@@ -30,6 +34,8 @@ NLP project using Latent Dirichlet Allocation (LDA) to perform topic modeling on
 
 ![](/images/nlp_pipeline.png)
 
+
+
 ## [Project 4: Music Recommender System](https://choijin.github.io/Music_Recommender_System/) 
 
 Big data project using PySpark to extract and transform large-scale music listening data stored in HDFS and build a collaborative-filter based recommender system
@@ -37,6 +43,8 @@ Big data project using PySpark to extract and transform large-scale music listen
 * Evaluated the model against a popularity baseline model
 * Used Mean Average Precision at K (MAP@K) metric for performance assessment
 * The ALS model outperformed the popularity baseline model and resulted in a 16.7x improvement in MAP@100.
+
+
 
 ## [Project 5: Twitter Data Pipeline](https://choijin.github.io/Twitter_Data_Pipeline_ETL/) 
 
@@ -48,6 +56,8 @@ Data engineering project using Airflow to perform ETL process on Twitter data an
 
 ![](/images/twitter_pipeline.png)
 
+
+
 ## [Project 6: Health Insurance Premium Price Analysis](https://choijin.github.io/Health_Insurance_Analysis/) 
 
 Analysis of health insurance premium data using causal inference and machine learning methods
@@ -56,6 +66,8 @@ Analysis of health insurance premium data using causal inference and machine lea
 * Performed PCA, K-Mean's clustering and XGBoost classifier to create the decision tree to determine one’s diabetes status
 
 ![](/images/age_distribution.png)
+
+
 
 ## [Project 7: Bank Customer Segmentation Dashboard](https://choijin.github.io/Bank_Customer_Dashboard/) 
 
@@ -66,6 +78,8 @@ Analysis of dummy bank customer data from United Kingdom
 
 ![](/images/bank_dashboard.png)
 
+
+
 ## [Project 8: Data Analysis on Research Text Data](https://choijin.github.io/Data_Analysis_Research/)  
 
 Exploratory data analysis on research grant data retrieved from National Science Foundation 
@@ -73,6 +87,8 @@ Exploratory data analysis on research grant data retrieved from National Science
 * Pre-processed the data by removing any stopwords and missing data
 * Performed text analysis using libraries (such as PlaintextCorpusReader and BigramCollocationFinder) to segment the text into single word, two-worded and three-worded phrases and counting its frequencies
 * Used various machine learning algorithms (KMeans Clustering, XGBoost, Random Forest, NetworkX) to draw insights
+
+
 
 ## [Project 9: Additional Tableau Project](https://public.tableau.com/app/profile/jin.choi8484/viz/NYCParkCrime_16744573706270/NYCRates) 
 
