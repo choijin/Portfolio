@@ -6,7 +6,6 @@ Stock Price Prediction project leveraging LSTM and BERT models to analyze contex
 * Aggregated and processed over 100,000 news articles, aligning them with historical stock data from the S&P 500.
 * Developed a baseline LSTM model using stock data, and an advanced hybrid model combining LSTM with BERT embeddings of news headlines.
 * Implemented a custom tokenization strategy to handle BERT's token limit, creating daily news embeddings that represents the context for each day.
-* Evaluated model performance with AUC scores, and improved upon a baseline model (0.43 to 0.59).
 
 ![](/images/nlp_text_stock_prediction.png)
 
